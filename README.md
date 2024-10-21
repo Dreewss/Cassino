@@ -17,10 +17,10 @@ Este projeto simula um jogo de caça-níqueis onde jogadores fazem apostas e pod
 
 2. Navegue até o diretório:
    ```bash
-   cd 
+   cd Pixfruit
 3. Execute o script:
    ```bash
-   python cassino.py
+   python Pixfruit.py
    
 # Parâmetros
 
