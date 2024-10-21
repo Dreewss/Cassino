@@ -13,7 +13,7 @@ Este projeto simula um jogo de caça-níqueis onde jogadores fazem apostas e pod
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITÓRIO>
+   git clone https://github.com/Dreewss/Cassino.git
 
 2. Navegue até o diretório:
    ```bash
