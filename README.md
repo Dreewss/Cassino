@@ -16,11 +16,18 @@ Este projeto simula um jogo de caça-níqueis onde jogadores fazem apostas e pod
    git clone <URL_DO_REPOSITÓRIO>
 
 2. Navegue até o diretório:
+   ```bash
+   cd 
 3. Execute o script:
-
-#Parâmetros
+   ```bash
+   python cassino.py
+   
+# Parâmetros
 
 Dias: Número total de dias (padrão: 10).
+
 Jogadores por dia: 100.
+
 Apostas por jogador: 5.
+
 Valor máximo da aposta: 200.
